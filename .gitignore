@@ -1,0 +1,6 @@
+.vscode
+.idea
+*.pyc
+__pycache__
+cifar-10-batches-py
+.python-version
